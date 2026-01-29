@@ -1,0 +1,11 @@
+{
+  "name": "synthetic_dataset_utils",
+  "files": [
+    "synthetic_data_utils.py",
+    "demo.py",
+    "sample_dataset.csv",
+    "regression_y_hist.png",
+    "regression_y_ecdf.png"
+  ],
+  "usage": "Run demo.py or import synthetic_data_utils in your project. Demo produces sample_dataset.csv and visualizations."
+}
